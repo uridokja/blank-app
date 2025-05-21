@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Welcome evernyan")
 st.write(
-    "Buranyoo, nyaga? NYAGA?!."
+    "Nah, Kim Dokja is leaving."
 )
-st.image(
+st.image(23472b9e36efc7644af62121cf435fb2 (1).jpg, width=200)
